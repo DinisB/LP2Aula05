@@ -1,0 +1,15 @@
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\bin\Debug\net8.0\ExceptionTest.exe
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\bin\Debug\net8.0\ExceptionTest.deps.json
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\bin\Debug\net8.0\ExceptionTest.runtimeconfig.json
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\bin\Debug\net8.0\ExceptionTest.dll
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\bin\Debug\net8.0\ExceptionTest.pdb
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.AssemblyInfoInputs.cache
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.AssemblyInfo.cs
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.csproj.CoreCompileInputs.cache
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.sourcelink.json
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.dll
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\refint\ExceptionTest.dll
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.pdb
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ExceptionTest.genruntimeconfig.cache
+c:\Users\Dinis\Documents\LP2\LP2Aula05\ExceptionTest\obj\Debug\net8.0\ref\ExceptionTest.dll
